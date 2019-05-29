@@ -64,5 +64,7 @@ def PatternUnlock( N, hits):
     p = p//10
   st = str(fst)
   return st
-print(PatternUnlock( 10, [1,2,3,4,5,6,2,7,8,9]))
+
+def test():
+  print(PatternUnlock( 10, [1,2,3,4,5,6,2,7,8,9]))
 
