@@ -1,5 +1,5 @@
 def PatternUnlock( N, hits):
-  st = ' '
+  st = ''
   s = 0
   pr = 0
   fst = 0
